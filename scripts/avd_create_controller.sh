@@ -4,7 +4,7 @@ PID=$(pgrep -u ${USER} -f bin/gnome-shell)
 kill -9 ${PID}
 sleep 5
 export DISPLAY=:${USER##xdev}
-source ~/test_app/scripts/CommandCenter.log
+source ~/7eet-saby-whatsapp-ubuntu20/scripts/CommandCenter.log
 #Set Incomming Request Arguments
 VPN_PROVIDER=$1
 VPN_REGION=$2
@@ -16,7 +16,7 @@ EMULATOR_ALPHA=$6
 HOSTNAME=$(hostname)
 USERNAMESHORT=${USER}-${HOSTNAME}
 USERNAMEFULL=${USER}-${HOSTNAME}-${EMULATOR_ALPHA}
-SABYPATH=/${HOME}/test_app
+SABYPATH=/${HOME}/7eet-saby-whatsapp-ubuntu20
 REMOTE_SERVER=http://95.217.198.229/apk/MOH_AVD
 
 #Analyze Get Emulator ID from the ALPHA
@@ -39,7 +39,6 @@ ENV_IP=$(echo $ENV_JSON | python2 -c "import sys, json; print json.load(sys.stdi
 PROFILE_JSON=$(curl -s http://${ENV_HOST_API}/getSabyProfileDetail/${USERNAMEFULL})
 PROFILE_WA_TYPE=$(echo $PROFILE_JSON | python2 -c "import sys, json; print json.load(sys.stdin)['whatsapp_type']")
 PROFILE_APK_NAME=$(echo $PROFILE_JSON | python2 -c "import sys, json; print json.load(sys.stdin)['apk_name']")
-
 PROFILE_AVD_NAME=$(echo $PROFILE_JSON | python2 -c "import sys, json; print json.load(sys.stdin)['avd_name']")
 PROFILE_AVD_TAG="default"
 PROFILE_SETTINGS_TYPE="29"
