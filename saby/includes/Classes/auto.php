@@ -747,6 +747,11 @@ class Automate
         myLog('RUNNING >>> ' . __FUNCTION__ . " >>>>  IN " . __CLASS__);
         exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/IPLocation.apk");
     }
+    public function installTorApp()
+    {
+        myLog('RUNNING >>> ' . __FUNCTION__ . " >>>>  IN " . __CLASS__);
+        exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/tor.apk");
+    }
 
     public function add_profile_pic()
     {
