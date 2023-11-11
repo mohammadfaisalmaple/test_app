@@ -105,7 +105,6 @@ $VPN_PROVIDER="HTZ-express";
 switch ($VPN_PROVIDER) {
         case "HTZ-express":
             $transporter->updateWireXpressVpnConfig($EMULATOR_ALPHA, 60, 2);
-            $checker->rebootAVD();
             $auto->ConnectWireGuard($PROFILE_ANDROID, 'New');
             break;
         default:
