@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09a68a83-eec8-4597-8014-e2125e7d4c1d" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/audio/1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/10.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/11.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/12.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/13.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/14.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/15.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/16.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/17.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/5.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/6.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/7.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/8.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/9.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/ActivationChecker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/ExpressVPN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/activate_new.php" beforeDir="false" afterPath="$PROJECT_DIR$/saby/activate_new.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/activate_new_scenario.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/behavior_only.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/behavior_only_reciever.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/behavior_only_sender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/changeNordvpnConfig.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/changeVpnConfig.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/changeVpnToWireGuard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/changeVpnToWireGuardExpressVpn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/changeVpnToWireGuardHTZ-express.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/common.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/AsyncWorkerService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/Behaviour.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/CallsManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/Checker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/ExpressVPN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/Ext5SimProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/ExtSimSmsProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/ExtSmsActivateProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/GatewayProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/HotSpotVPN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/IPvanishVPN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/PrivateInternetAccessVPN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/PureVPN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/Socket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/StrongVPN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/SurfsharkVPN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/Transporter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/WireGuard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/auto.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/KLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/DeviceIDAndroidv2.2.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/GBWhatsApp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/IPLocation.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/PIA.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/RamMonitor.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/Surfshark.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/WhatsAppriv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/com.wireguard.android_preferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/expressvpn-7-9-8.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/template/com.wireguard.android_preferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/vpn.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/wireguard.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/bot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/botRandom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/content.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/conversation1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/conversation2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/conversation3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/conversation4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/conversations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/countries.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/countries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/emojies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/first_name_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/AndroidDownload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/AndroidDownloadActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/BlackScreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ClearALLMemory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/CloseSystemUiNotRespoding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/Confrim16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/CreateNewContact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/EnableContactsAdd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/EnableContactsAddConfirm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/EnterCheck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/EpressVPNCreateVPN27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressLoginSuccssfullyIcon27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressSetupVPN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressSetupVPN27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNConfirmSetUpVPNOKButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNConfirmSetupVPN27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNConnectedIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNConnectionWaring27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNConnectionWaringConfirm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNConnectionWaringConfirmation27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNConnectionWarning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNDeclineImprove27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNDisconnectButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNDisconnectButton27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNHelpToImprove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNHelptoImprove27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNLoginConfirmation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNLoginSuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNMagnifire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNNoThanksButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNOpenLocationButton27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNPassWordFelid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSearchFor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSearchingmagnifireButton27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSecureDevices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSignIn27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSignIn27LoginConfermation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSignInButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSignInE-mail27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSignInPassword27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSignoutButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSignoutButton27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNSignoutWaring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNTryAgainButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNUnableToConnect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVPNmaybeLater.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVpnConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVpnNeverConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVpnNotConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ExpressVpnNotSignedIn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/HotspotDisconnectVPN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/HotspotMagnifireButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/HotspotOpenMenuButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/HotspotSignInButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IMODownloadsFile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishAndroidStartUpConnection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishConfirmLogoutWaring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishConnectButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishConnectToLastServer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishConnectionButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishConnectionWaring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishConnectionWarrnig3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishDisconnectButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishLoginButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishLoginDone3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishLoginSucssefully.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishLogoutButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishLogoutMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishMaginifire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishMainActivity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishOpenServersMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishPasswordFelid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishSettingsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishSkipTutorial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishTutorial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishUsernameFelid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishWaring2Connection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/IPVanishWaring3Confermation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/Internet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/InternetWorking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/Is_correct_number_yes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/Is_this_the_correct.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/MemeryClearAlready.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/NewTermsNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/NoResultsFound.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAConnected2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIALoginDoneIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIALoginIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIANotConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIANotSignedIn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNConnectionWarning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNConnectionWarningConfirmation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNConnectstatus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNDisConnectButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNEnterPassword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNEnterUserName.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNLoginButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNLoginConfirmOK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNLoginConfirmationButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNLogoutButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNLogoutConfirmaion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNLogoutConfirmationButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNReagionButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PIAVPNSearchFiled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PlaneMode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PureVpnConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/PureVpnDiconnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SaveContactButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ScreenNotBlack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SettingsSearchArea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/StrongVpnConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/StrongVpnDisconnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkAccountButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkConnectionSucssefully.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkLogoutButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkLogoutWarning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkNotConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkNotSignedIn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkNotSignedIn2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkSettingsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfSharkTimeToUpdate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkCancelButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkConnectionWaring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkDisConnectButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkEmailLoginFelid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkLoginButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkLoginConfirmButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkLoginPasswordFelid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkLoginSucsseful.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkLoginSucssefully.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkLogoutWarningConfirmation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkMagnifireButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkOpenLocationMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SurfsharkWaringConfermation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/SystemUiNotResponding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/UnableToConnect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/UpdateWhatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/UpdateWhatsapp2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/UpperCase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnAlwaysOnActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnAlwaysOnNotActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnBlockConfirmationPopUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnBlockConfirmationTurnOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnBlockConnectionActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnBlockConnectionNotActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnCog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnConnectdAlways.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnInList.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnInList2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/VpnInSettings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhastappBackInverse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhastappGreenArrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhastappGroupCreated.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhastappMagnifier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhastappTermsAgree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappAddGroupName.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappAnswerIncomming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappCallCancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappCallDeclind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappDialButton2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappGreenTick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappGuessedManyTimes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappGuessedManyTimesOk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappIncommingCall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappLastSeen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappMessagingArea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappMessagingArea2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappNewTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappPlayVoiceNote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappRateCall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappRateCallSubmit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappReportCall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappReportCallOK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappSendMessage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappTwoStepVarifications.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappUnableToConnect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappUpdatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappUpdatingTermsAccept.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappUpdatingTermsContinue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappVideoCall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsappVideoCallButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhatsppRinging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WhstappVideoCallOk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WifiOff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WireGuardConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WireGuardNotConnected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WiregardConfgFileIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WiregardConfgFileIcon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WireguardAddtunnel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WireguardConnectionWaring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WireguardConnectionWaringConfirmation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/WireguardImportFileButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/android_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/android_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/call button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/dialer check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/gb_agree_and_continue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/gb_agree_and_continue_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/gb_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/gb_next_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/gb_opened.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/new_Wa_start_call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/new_hangup_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/new_unable_to_connect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/new_voice_call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/research_sound.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/restartAvdButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/ringing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/select a contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/sound.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/startVoiceCall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/start_voice_call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/state_ringing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/type_your_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/viber_end_call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/viber_incoming_decline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/viber_no_av.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/viber_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa-unavailable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_accept_continue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_agree_and_continue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_backup_title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_banned.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_big_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_cancel_update.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_chrome_no_thanks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_close_app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_custom_rom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_decline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_des_not_allowed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_done_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_enter_code_text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_exclamation_mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_googledrive_backup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_init.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_later.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_never_text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_ok_bg_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_phonenumber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_profile_pic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_profile_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_recently_used_number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_resend_sms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_send_msg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_setting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_sms_7hour.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_start_call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_start_call_confirm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_temporarily_1hour.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_try_1hour.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_update_now.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_waiting_sms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_wrong_number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/wa_your_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsappSwitchButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsappTemporarilyBanded.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_add_contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_add_contact2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_agree_and_continue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_busy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_busy_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_carrier_blocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_connecting_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_decline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_decline_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_dial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_dial_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_dial_big_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_dial_green_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_duration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_duration_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_hangup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_microphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_microphone_ok_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_not_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_ok_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_ringing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_ringing_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_verify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_verify_ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_voice_call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/img/whatsapp_x_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/last_name_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/AbstractCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/BuryCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/DeleteCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/IgnoreCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/KickCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/KickJobCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/ListTubeUsedCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/ListTubesCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/ListTubesWatchedCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/PauseTubeCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/PeekCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/PutCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/ReleaseCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/ReserveCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/StatsCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/StatsJobCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/StatsTubeCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/TouchCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/UseCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Command/WatchCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/ClientException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/CommandException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/ConnectionException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/ServerBadFormatException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/ServerDrainingException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/ServerException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/ServerInternalErrorException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/ServerOutOfMemoryException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/ServerUnknownCommandException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Exception/SocketException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Job.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Pheanstalk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/PheanstalkInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Response.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Response/ArrayResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/ResponseParser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Socket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Socket/NativeSocket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Socket/StreamFunctions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/Socket/WriteHistory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/classes/Pheanstalk/YamlResponseParser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/pheanstalk_init.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pheanstalk/scripts/build_phar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/phonenumbers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/click.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/findImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/findImageAndClick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/findImageWithSleep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/getNumberFromSound.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/getStringFromScreenShot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/pressButton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/rebootAvdByUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/startPythonUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonScripts/writeText.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/pythonUIClass/pythonUI.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/sentences.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/short_sentences.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/timezones.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/is_have_whatsapp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/main_new.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/manual_activate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.31.15 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.31.20 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.32.13 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.33.07 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.33.47 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.34.33 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.34.40 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.35.26 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.35.32 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.36.18 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/misc/states img/Screen Shot 2014-03-12 at 11.37.03 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/multi_emulators_main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/receiver_main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/sender_main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/testing_mode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/vpn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/watcher.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/BackUpIP.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/BackupAvd.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/CommandCenter.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/CpuRamUsage.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/Get_code_version.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/RESET_SIDE_ICONS.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/UpdateWaVersion.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/activate_gb_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/activate_wa9_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/activate_wa_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/audio_fplay.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/audio_mix_ffplay.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/audio_mix_reset.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/audio_mix_sip.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/audio_stop.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_create_controller_manual_activate.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_deploy.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_deploy_27.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_deploy_29.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_deploy_controller.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_deploy_safe.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_restart.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_start_by_name.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/avd_stop.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/backupFileAfterActivation.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/changeNordvpnConfig.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/changeVpnConfig.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/check_internet.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/check_whatsapp_version.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/create_wipe_avd.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/getSdkVersion.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/get_avd_area.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/get_avd_port.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/get_avd_port_name.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/increaseVolume.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/is_have_whatsApp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main_avd_kill.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main_gb_start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main_kill.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main_wa11_start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main_wa_start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/pa_check.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/random_activation.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/register.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/register_multi_emulators.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/register_new_m3allem.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/replaceSdk.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/response.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/restoreBackUP.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/saby_deploy_start_ansible.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/saby_screenshot.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/saby_update.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/screen_get_resolution.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/screen_get_set_resolution.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/sikulix_fix.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/sipme.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/soft_kill.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/startChangeVpnWireGuardHTZ-express.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/startChangeVpnWireGuardXen-express.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/startChangeVpntoWireGuard.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/startChangeVpntoWireGuardExpressVpn.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_ActivationChecker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_behave_only_mode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_behave_only_reciever.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_behave_only_sender.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_gb_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_multi_emulators_main.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_new_main.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_receiver.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_sender.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_testing_mode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_vnc.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_wa11_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_wa7_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_wa9_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_wa_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/switch_force.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_phone_in_whatsapp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/testchan.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/update_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/video_capture_start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/video_capture_stop.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/vpn_update_config.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/wipe_gb_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/wipe_saby.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/wipe_wa_saby.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mohammadfaisalmaple"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bb97df59-d567-4b7b-80b1-4d5ed572d93a" />
+        <option name="url" value="https://github.com/mohammadfaisalmaple/test_app.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WbliJADccQHcbF8yXv8q3B3U86" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/mohammad/Codes/mohammadfisal/copy_code/saby",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/saby" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/saby/includes/img" />
+      <recent name="$PROJECT_DIR$/saby/Callee" />
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09a68a83-eec8-4597-8014-e2125e7d4c1d" name="Changes" comment="" />
+      <created>1697009285379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697009285379</updated>
+      <workItem from="1697009286436" duration="22227000" />
+      <workItem from="1697375582674" duration="76000" />
+      <workItem from="1697375699414" duration="14799000" />
+      <workItem from="1697536728688" duration="75182000" />
+      <workItem from="1698062200010" duration="19573000" />
+      <workItem from="1698478928412" duration="1555000" />
+      <workItem from="1698564926723" duration="100073000" />
+      <workItem from="1699702580470" duration="3925000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1699705575664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699705575664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>

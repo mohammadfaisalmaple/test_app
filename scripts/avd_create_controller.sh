@@ -4,7 +4,7 @@ PID=$(pgrep -u ${USER} -f bin/gnome-shell)
 kill -9 ${PID}
 sleep 5
 export DISPLAY=:${USER##xdev}
-source ~/7eet-saby-whatsapp-ubuntu20/scripts/CommandCenter.log
+source ~/test_app/scripts/CommandCenter.log
 #Set Incomming Request Arguments
 VPN_PROVIDER=$1
 VPN_REGION=$2
@@ -16,7 +16,7 @@ EMULATOR_ALPHA=$6
 HOSTNAME=$(hostname)
 USERNAMESHORT=${USER}-${HOSTNAME}
 USERNAMEFULL=${USER}-${HOSTNAME}-${EMULATOR_ALPHA}
-SABYPATH=/${HOME}/7eet-saby-whatsapp-ubuntu20
+SABYPATH=/${HOME}/test_app
 REMOTE_SERVER=http://95.217.198.229/apk/MOH_AVD
 
 #Analyze Get Emulator ID from the ALPHA
