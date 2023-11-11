@@ -108,7 +108,6 @@ switch ($VPN_PROVIDER) {
             break;
         default:
             $activationFailed = true;
-            goto activationFailed;
 }
 
 
