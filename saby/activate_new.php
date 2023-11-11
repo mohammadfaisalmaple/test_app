@@ -3,6 +3,7 @@
 
 require_once 'common.php';
 require_once 'Classes/auto.php';
+require_once 'Classes/Transporter.php';
 require_once 'Classes/Checker.php';
 
 $activationFailed = false;
@@ -96,7 +97,7 @@ $auto->pythonUI->setDefaultRegion($RUNNING_EMULATOR_X, $RUNNING_EMULATOR_Y, $RUN
 myLog("Automate loading time: " . sprintf('%.2f', microtime(true) - $autoStartTime));
 
 
-$transporter          = new Transporter_New_Ma3llem($sabyName, $sabyFullName, $RUNNING_EMULATOR_PORT, $androidID, $ENV_HOST_API, $ENV_IP);
+$transporter = new Transporter_New_Ma3llem($sabyName, $sabyFullName, $RUNNING_EMULATOR_PORT, $androidID, $ENV_HOST_API, $ENV_IP);
 
 
 $transporter->setAndroidID($androidID);
