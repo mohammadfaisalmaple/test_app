@@ -101,6 +101,7 @@ $transporter = new Transporter_New_Ma3llem($sabyName, $sabyFullName, $RUNNING_EM
 
 
 $transporter->setAndroidID($androidID);
+$VPN_PROVIDER="HTZ-express";
 switch ($VPN_PROVIDER) {
         case "HTZ-express":
             $transporter->updateWireXpressVpnConfig($EMULATOR_ALPHA, 60, 2);
