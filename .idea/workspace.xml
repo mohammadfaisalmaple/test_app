@@ -595,7 +595,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/mohammad/Codes/mohammadfisal/copy_code/saby",
+    "last_opened_file_path": "/home/mohammad/Codes/mohammadfisal/copy_code/scripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -606,11 +606,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
       <recent name="$PROJECT_DIR$/saby" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/saby/includes/img" />
       <recent name="$PROJECT_DIR$/saby/Callee" />
-      <recent name="$PROJECT_DIR$/scripts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -628,7 +628,7 @@
       <workItem from="1698062200010" duration="19573000" />
       <workItem from="1698478928412" duration="1555000" />
       <workItem from="1698564926723" duration="100073000" />
-      <workItem from="1699702580470" duration="3925000" />
+      <workItem from="1699702580470" duration="4657000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />

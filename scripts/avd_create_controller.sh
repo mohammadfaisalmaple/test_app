@@ -39,9 +39,10 @@ ENV_IP=$(echo $ENV_JSON | python2 -c "import sys, json; print json.load(sys.stdi
 PROFILE_JSON=$(curl -s http://${ENV_HOST_API}/getSabyProfileDetail/${USERNAMEFULL})
 PROFILE_WA_TYPE=$(echo $PROFILE_JSON | python2 -c "import sys, json; print json.load(sys.stdin)['whatsapp_type']")
 PROFILE_APK_NAME=$(echo $PROFILE_JSON | python2 -c "import sys, json; print json.load(sys.stdin)['apk_name']")
+
 PROFILE_AVD_NAME=$(echo $PROFILE_JSON | python2 -c "import sys, json; print json.load(sys.stdin)['avd_name']")
-PROFILE_AVD_TAG=$(echo $PROFILE_JSON | python2 -c "import sys, json; print json.load(sys.stdin)['avd_tag']")
-PROFILE_SETTINGS_TYPE=$(echo $PROFILE_JSON | python2 -c "import sys, json; print json.load(sys.stdin)['android_ver']")
+PROFILE_AVD_TAG="default"
+PROFILE_SETTINGS_TYPE="29"
 
 # get Emulator Port Per Xdev
 ADB_PORTS=$(curl -s http://${ENV_HOST_API}/getSabyAdbPort/${USER})
@@ -72,7 +73,7 @@ pkill -u ${USER} -9 qemu
 REMOTE_DEVICES=${REMOTE_SERVER}/devices.xml
 #Set Of local Directories and NEW AVD Name
 AVD_HOME=/home/${USER}/.android
-AVD_NAME=${PROFILE_AVD_NAME}${EMULATOR_ID}
+AVD_NAME="GB"
 #Set Of local FILES
 LOCAL_DEVICES=${AVD_HOME}/devices.xml
 LOCAL_INI=${AVD_HOME}/avd/${AVD_NAME}.ini
