@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="enabled_configs">
+        <string>{FILE_NAME}</string>
+    </set>
+    <string name="last_used_tunnel">{FILE_NAME}</string>
+</map>

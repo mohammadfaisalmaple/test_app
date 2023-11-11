@@ -1,0 +1,154 @@
+France - Paris - 2
+India - Mumbai - 1
+India (via UK)
+India - Chennai
+UK - East London
+UK - Docklands
+UK - London
+UK - Kent
+UK - Wembley
+USA - New York
+USA - Washington DC
+USA - Washington DC - 2
+USA - New Jersey - 1
+USA - San Francisco
+USA - Chicago
+USA - Dallas
+USA - Miami
+USA - Los Angeles - 3
+USA - Los Angeles - 2
+USA - New Jersey - 3
+USA - Seattle
+USA - Miami - 2
+USA - Denver
+USA - Salt Lake City
+USA - Tampa - 1
+USA - Los Angeles - 1
+USA - New York - 2
+USA - New Jersey - 2
+USA - Dallas - 2
+USA - Los Angeles
+USA - San Jose
+USA - Atlanta
+USA - Los Angeles - 5
+USA - Los Angeles - 4
+USA - Santa Monica
+Singapore - Jurong
+Singapore - CBD
+Singapore - Marina Bay
+Singapore - Sentosa
+Netherlands - The Hague
+Netherlands - Amsterdam
+Netherlands - Rotterdam
+Netherlands - Amsterdam - 2
+Hong Kong - 2
+Hong Kong - 3
+Hong Kong - 4
+France - Paris - 1
+France - Strasbourg
+France - Paris - 2
+Japan - Tokyo - 3
+Japan - Yokohama
+Japan - Tokyo - 2
+Japan - Tokyo - 1
+Switzerland - 2
+Switzerland
+Italy - Milan
+Italy - Cosenza
+Sweden
+Australia - Melbourne
+Australia - Sydney
+Australia - Perth
+Australia - Brisbane
+Australia - Sydney - 2
+Germany - Nuremberg
+Germany - Frankfurt - 1
+Germany - Frankfurt - 2
+Germany - Frankfurt - 3
+South Korea - 2
+Philippines
+Malaysia
+Sri Lanka
+Pakistan
+Kazakhstan
+Thailand
+Indonesia
+New Zealand
+Taiwan - 3
+Vietnam
+Macau
+Cambodia
+Mongolia
+Laos
+Myanmar
+Nepal
+Kyrgyzstan
+Uzbekistan
+Bangladesh
+Bhutan
+Brunei
+Canada - Toronto
+Canada - Montreal - 2
+Canada - Vancouver
+Canada - Toronto - 2
+Canada - Montreal
+Mexico
+Brazil - 2
+Panama
+Chile
+Argentina
+Costa Rica
+Colombia
+Venezuela
+Ecuador
+Guatemala
+Peru
+Uruguay
+Bahamas
+Romania
+Isle of Man
+Spain - Madrid
+Spain - Barcelona
+Turkey
+Ireland
+Iceland
+Norway
+Denmark
+Belgium
+Finland
+Greece
+Portugal
+Austria
+Armenia
+Poland
+Lithuania
+Latvia
+Estonia
+Czech Republic
+Andorra
+Montenegro
+Bosnia and Herzegovina
+Luxembourg
+Hungary
+Bulgaria
+Belarus
+Ukraine
+Malta
+Liechtenstein
+Cyprus
+Albania
+Croatia
+Slovenia
+Slovakia
+Monaco
+Jersey
+North Macedonia
+Moldova
+Serbia
+Georgia
+Azerbaijan
+South Africa
+Israel
+Egypt
+Kenya
+Algeria

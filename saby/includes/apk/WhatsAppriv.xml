@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Img_share_limit" value="false" />
+    <boolean name="tenor_giphy" value="false" />
+    <int name="yoCallsControl" value="4" />
+    <boolean name="pattern_invisible" value="false" />
+    <boolean name="multiChats" value="false" />
+    <boolean name="yoHideStatView" value="false" />
+    <int name="Img_highres_seek" value="1" />
+    <int name="last_upcheck2020" value="61" />
+    <boolean name="yoDisableFwd" value="true" />
+    <boolean name="yoHideSeen" value="true" />
+    <int name="lastSK2020" value="61" />
+    <string name="Language">0</string>
+    <string name="myNumV2">249965578485@s.whatsapp.net</string>
+    <boolean name="Pop_Heds" value="false" />
+    <boolean name="always_online" value="false" />
+    <boolean name="yoBlueOnReply" value="false" />
+    <boolean name="installation_v796" value="true" />
+    <boolean name="yoAntiRevoke" value="true" />
+    <boolean name="yoAntiRevokeStatus" value="true" />
+    <string name="currv">8.25</string>
+    <boolean name="pattern_novibration" value="false" />
+    <boolean name="disable_audioheads" value="false" />
+    <boolean name="askTwitter" value="false" />
+    <boolean name="applock" value="false" />
+    <boolean name="disable_bcounter" value="false" />
+    <boolean name="disable_chatswipeV2" value="true" />
+    <string name="android_id">2c68486e2b2287b0</string>
+    <int name="lastWCheck2020" value="61" />
+</map>

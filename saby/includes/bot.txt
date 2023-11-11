@@ -1,0 +1,104 @@
+Hi,Hi,Who is this?
+Hi,Hi How are you?,Who is this?
+Hi,Hello,Who is this?
+Hi,Hello How are you?,Who is this?
+Hi,hey,Who is this?
+hi,Hi,Who is this?
+hi,Hi How are you?,Who is this?
+hi,Hello,Who is this?
+hi,Hello How are you?,Who is this?
+hi,hey,Who is this?
+Hello,Hi,Who is this?
+Hello,Hi How are you?,Who is this?
+Hello,Hello How are you?,Who is this?
+Hello,hey,Who is this?
+hello,Hi,Who is this?
+hello,Hi How are you?,Who is this?
+hello,Hello How are you?,Who is this?
+hello,hey,Who is this?
+Hola,Hi Do you speak English?,Who is this?
+Hola,Hi How are you?,Who is this?
+Hola,Hello how are you?,Who is this?
+Hola,hey,Who is this?
+hola,Hi Do you speak English?,Who is this?
+hola,Hi How are you?,Who is this?
+hola,Hello how are you?,Who is this?
+hola,hey,Who is this?
+hey,Whatsup?,Who is this?
+hey,Whats up?,Who is this?
+hey,hey,Who is this?
+Hey,Whatsup?,Who is this?
+Hey,Whats up?,Who is this?
+Hey,hey,Who is this?
+who,I should Ask !,Who is this?
+Who,I should Ask !,Who is this?
+how are you,Fine,how about you?
+how are you,Good,how about you?
+how are you,So far so good,how about you?
+how are you,doing well,how about you?
+how are you,Fine thanks,how about you?
+how are you,not bad,how about you?
+how are u,Fine,how about you?
+how are u,Good,how about you?
+how are u,So far so good,how about you?
+how are u,doing well,how about you?
+how are u,Fine thanks,how about you?
+how are u,not bad,how about you?
+how r u,Fine,how about you?
+how r u,Good,how about you?
+how r u,So far so good,how about you?
+how r u,doing well,how about you?
+how r u,Fine thanks,how about you?
+how r u,not bad,how about you?
+How are you,Fine,how about you?
+How are you,Good,how about you?
+How are you,So far so good,how about you?
+How are you,doing well,how about you?
+How are you,Fine thanks,how about you?
+How are you,not bad,how about you?
+How are u,Fine,how about you?
+How are u,Good,how about you?
+How are u,So far so good,how about you?
+How are u,doing well,how about you?
+How are u,Fine thanks,how about you?
+How are u,not bad,how about you?
+How r u,Fine,how about you?
+How r u,Good,how about you?
+How r u,So far so good,how about you?
+How r u,doing well,how about you?
+How r u,Fine thanks,how about you?
+How r u,not bad,how about you?
+bye,see you, bye
+bye,bye,see you
+Bye,see you, Bye
+Bye,bye,see you
+doing,doing good,you?
+doing,good,and you?
+do you do,doing good,you?
+do you do,good,and you?
+this is,welcome, 
+This is,welcome, 
+Am,You are welcome, 
+am,You are welcome, 
+Am,Welcome, 
+am,Welcome, 
+call,Maybe a mistake,Sorry
+Call,Maybe a mistake,Sorry
+call,My child was on playing maybe,Sorry
+Call,My children were on playing maybe,Sorry
+Call,Do I know you?, 
+call,Do I know you?, 
+Call,Do you know me?, 
+call,Do you know me?, 
+Thanks,Welcome, 
+thanks,welcome, 
+Airport,Nice I will save your number,Thanks have a nice day
+airport,Nice I will save your number,Thanks have a nice day
+Midical,Nice I will save your number,Thanks have a nice day
+midical,Nice I will save your number,Thanks have a nice day
+Ok,Thanks for undestanding, 
+OK,Thanks for undestanding, 
+ok,Thanks for undestanding, 
+Ok,Thanks,  
+OK,Thanks,  
+ok,Thanks, 
