@@ -38,7 +38,7 @@ sleep(2);
 $EMULATOR_ID = $argv[8];
 myLog('Saby Emulator Suffix ID : ' . $EMULATOR_ID);
 sleep(2);
-$RUNNING_EMULATOR_PORT = $argv[9];
+$RUNNING_EMULATOR_PORT = '5544';
 myLog('Saby Emulator Port : ' . $RUNNING_EMULATOR_PORT);
 sleep(2);
 $RUNNING_EMULATOR_X = $argv[10];

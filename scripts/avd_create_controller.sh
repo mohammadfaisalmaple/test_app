@@ -131,7 +131,7 @@ while [ "$CAN_STARTING" == "false" ]; do
 done
 curl -s http://${ENV_HOST_API}/setSabyEmulatorState/${USERNAMEFULL}/ACTIVATING/WIPING
 function emulatorWipeStart() {
-    nohup ~/Android/Sdk/emulator/emulator @${AVD_NAME} -port 5551 -no-snapshot -camera-back none -camera-front none -memory 2048 -cache-size 1000 -partition-size 8192 -shell -qemu -allow-host-audio >~/avd.log 2>&1 &
+    nohup ~/Android/Sdk/emulator/emulator @${AVD_NAME} -port 5544 -no-snapshot -camera-back none -camera-front none -memory 2048 -cache-size 1000 -partition-size 8192 -shell -qemu -allow-host-audio >~/avd.log 2>&1 &
 }
 emulatorWipeStart
 sleep 10
