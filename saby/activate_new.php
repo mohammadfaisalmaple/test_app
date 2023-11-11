@@ -67,13 +67,17 @@ myLog("Saby Name : " . $sabyName);
 $sabyFullName = $sabyName . "-" . $EMULATOR_ALPHA;
 myLog("Saby Full Name: " . $sabyFullName);
 
-//$RUNNING_EMULATOR_X=0;
-//$RUNNING_EMULATOR_Y=0;
-//$RUNNING_EMULATOR_WIDTH=1240;
-//$RUNNING_EMULATOR_HEIGHT=900;
-//$RUNNING_EMULATOR_PORT=5544;
-//$sabyFullName='test';
-//$sabyName='test';
+myLog("starting Checker");
+$checkerStartTime = microtime(true);
+$checker          = new Checker($RUNNING_EMULATOR_PORT, $PROFILE_WA_TYPE, $PROFILE_AVD_NAME, $EMULATOR_ID, $EMULATOR_ALPHA);
+myLog("Checker loading time: " . sprintf('%.2f', microtime(true) - $checkerStartTime));
+$androidID = $checker->getEmulatorAndroidID();
+
+if (!$checker->AdbStartupPermissions()) {
+
+    $activationFailed = true;
+    myLog("error on permission");
+}
 
 myLog("starting automation");
 $autoStartTime = microtime(true);
