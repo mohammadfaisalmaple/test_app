@@ -747,7 +747,7 @@ class Automate
         myLog('RUNNING >>> ' . __FUNCTION__ . " >>>>  IN " . __CLASS__);
         exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/IPLocation.apk");
     }
-    public function installFireFox()
+    public function installWebBrowser()
     {
         myLog('RUNNING >>> ' . __FUNCTION__ . " >>>>  IN " . __CLASS__);
         exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/web.apk");
@@ -2489,6 +2489,15 @@ class Automate
             return True;
         }
         return false;
+    }
+
+    public function write_url($url){
+        exec(ADB . " -s emulator-" . $this->emulatorPort . " shell am start -n explore.web.browser/browser.fast.light.MainActivity");
+        sleep(1);
+        exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 352 170");
+        sleep(2);
+        exec(ADB . " -s emulator-" . $this->emulatorPort . " shell  input text '$url'");
+
     }
 
 }

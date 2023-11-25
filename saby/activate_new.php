@@ -114,5 +114,6 @@ switch ($VPN_PROVIDER) {
 
 myLog("Install IP Location APP");
 $auto->installIpLocationApp();
-$auto->installFireFox();
+$auto->installWebBrowser();
+$auto->write_url('www.google.com');
 
