@@ -541,7 +541,7 @@ class Transporter_New_Ma3llem
             $configPath = "/home/" . get_current_user() . "/" . get_current_user() . ".conf";
             file_put_contents($configPath, $vpnConfig, LOCK_EX);
             exec(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . get_current_user() . ".conf /mnt/sdcard/download/" . get_current_user() . ".conf");
-            myLog(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . $saby. ".conf /mnt/sdcard/download/" . $saby . ".conf");
+            myLog(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . get_current_user(). ".conf /mnt/sdcard/download/" . get_current_user() . ".conf");
             unset($EMULATOR_ALPHA, $vpn_region, $configPath, $vpnConfig);
             return true;
         }
