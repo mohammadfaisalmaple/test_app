@@ -537,9 +537,9 @@ class Transporter_New_Ma3llem
         myLog("URL request in " . __FUNCTION__ . " : >>  " . $this->controlCenterApi . "/xpressvpnwg.php/getSabyXpressvpnWgConfig/xdev1-wa-01/A/" . $vpn_region . "/" . $groupId);
         $vpnConfig = file_get_contents($this->controlCenterApi . "/xpressvpnwg.php/getSabyXpressvpnWgConfig/xdev1-wa-01/A/" . $vpn_region . "/" . $groupId);
         if (substr_count($vpnConfig, "ERROR") == 0) {
-            $configPath = "/home/" . get_current_user() . "/" . $this->sabyFullName . ".conf";
-            file_put_contents($configPath, $vpnConfig, LOCK_EX);
             $saby=substr($this->Saby,0,strpos($this->Saby,'-'));
+            $configPath = "/home/" . get_current_user() . "/" . $saby . ".conf";
+            file_put_contents($configPath, $vpnConfig, LOCK_EX);
             exec(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . $saby . ".conf /mnt/sdcard/download/" . $saby . ".conf");
             myLog(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . $saby. ".conf /mnt/sdcard/download/" . $saby . ".conf");
             unset($EMULATOR_ALPHA, $vpn_region, $configPath, $vpnConfig);
