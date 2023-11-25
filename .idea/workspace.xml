@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a68a83-eec8-4597-8014-e2125e7d4c1d" name="Changes" comment="test" />
+    <list default="true" id="09a68a83-eec8-4597-8014-e2125e7d4c1d" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saby/includes/apk/wireguard.apk" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/mohammad/Codes/mohammadfisal/7eet-control-center-api",
+    "last_opened_file_path": "/home/mohammad/Codes/mohammadfisal/test_app/saby/includes/apk",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +86,7 @@
       <workItem from="1699702580470" duration="8728000" />
       <workItem from="1699712465997" duration="1365000" />
       <workItem from="1699775236343" duration="638000" />
-      <workItem from="1700909566180" duration="2967000" />
+      <workItem from="1700909566180" duration="4025000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
