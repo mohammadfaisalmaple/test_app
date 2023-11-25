@@ -750,7 +750,7 @@ class Automate
     public function installFireFox()
     {
         myLog('RUNNING >>> ' . __FUNCTION__ . " >>>>  IN " . __CLASS__);
-        exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/firefox.apk");
+        exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/brave.apk");
     }
 
     public function add_profile_pic()

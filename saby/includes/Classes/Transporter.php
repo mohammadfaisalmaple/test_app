@@ -539,8 +539,9 @@ class Transporter_New_Ma3llem
         if (substr_count($vpnConfig, "ERROR") == 0) {
             $configPath = "/home/" . get_current_user() . "/" . $this->sabyFullName . ".conf";
             file_put_contents($configPath, $vpnConfig, LOCK_EX);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . $this->sabyFullName . ".conf /mnt/sdcard/download/" . $this->saby . ".conf");
-            myLog(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . $this->sabyFullName . ".conf /mnt/sdcard/download/" . $this->saby . ".conf");
+            $saby=substr($this->Saby,0,strpos($this->Saby,'-'));
+            exec(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . $saby . ".conf /mnt/sdcard/download/" . $saby . ".conf");
+            myLog(ADB . " -s emulator-" . $this->emulatorPort . " push ~/" . $saby. ".conf /mnt/sdcard/download/" . $saby . ".conf");
             unset($EMULATOR_ALPHA, $vpn_region, $configPath, $vpnConfig);
             return true;
         }
