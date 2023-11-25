@@ -7,17 +7,6 @@
     <list default="true" id="09a68a83-eec8-4597-8014-e2125e7d4c1d" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saby/activate_new.php" beforeDir="false" afterPath="$PROJECT_DIR$/saby/activate_new.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/Classes/auto.php" beforeDir="false" afterPath="$PROJECT_DIR$/saby/includes/Classes/auto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/DeviceIDAndroidv2.2.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/GBWhatsApp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/PIA.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/RamMonitor.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/Surfshark.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/WhatsAppriv.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/com.wireguard.android_preferences.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/expressvpn-7-9-8.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/vpn.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saby/includes/apk/wireguard.apk" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,20 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mohammad/Codes/mohammadfisal/test_app/saby/includes/apk&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/mohammad/Codes/mohammadfisal/7eet-control-center-api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/saby/includes/apk" />
@@ -97,7 +86,7 @@
       <workItem from="1699702580470" duration="8728000" />
       <workItem from="1699712465997" duration="1365000" />
       <workItem from="1699775236343" duration="638000" />
-      <workItem from="1700909566180" duration="354000" />
+      <workItem from="1700909566180" duration="2257000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
