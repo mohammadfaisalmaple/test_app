@@ -1403,32 +1403,6 @@ class Automate
             }
             sleep(5);
         }
-        if ($android_ver === "27") {
-            myLog("Chosing the Config file");
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 363 636");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 910 380");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 870 1515");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell am start -n com.android.settings/com.android.settings.Settings");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 270 195");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input text VPN");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 340 430");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 390 1480");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 969 410");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 914 650");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 902 1009");
-            sleep(5);
-            exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 800 1227");
-        } elseif ($android_ver === "29" || $android_ver === "30") {
             exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input press 300 1100");
             exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input press 300 1100");
             sleep(5);
@@ -1439,7 +1413,7 @@ class Automate
             }
             sleep(7);
             exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input tap 870 1515");
-        }
+
         sleep(5);
         myLog("Settings Add for Android");
         exec(ADB . " -s emulator-" . $this->emulatorPort . " shell settings put secure always_on_vpn_app com.wireguard.android");
