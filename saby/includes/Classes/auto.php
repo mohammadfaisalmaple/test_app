@@ -747,10 +747,10 @@ class Automate
         myLog('RUNNING >>> ' . __FUNCTION__ . " >>>>  IN " . __CLASS__);
         exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/IPLocation.apk");
     }
-    public function installTorApp()
+    public function installFireFox()
     {
         myLog('RUNNING >>> ' . __FUNCTION__ . " >>>>  IN " . __CLASS__);
-        exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/tor.apk");
+        exec(ADB . " -s emulator-" . $this->emulatorPort . " install -g " . dirname(__DIR__) . "/apk/firefox.apk");
     }
 
     public function add_profile_pic()

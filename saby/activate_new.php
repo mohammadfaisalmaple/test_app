@@ -114,5 +114,5 @@ switch ($VPN_PROVIDER) {
 
 myLog("Install IP Location APP");
 $auto->installIpLocationApp();
-$auto->installTorApp();
+$auto->installFireFox();
 
