@@ -534,8 +534,8 @@ class Transporter_New_Ma3llem
     public function updateWireXpressVpnConfig($EMULATOR_ALPHA, $vpn_region, $groupId)
     {
         myLog("Running >>>> " . __FUNCTION__ . "  in " . __CLASS__);
-        myLog("URL request in " . __FUNCTION__ . " : >>  " . $this->controlCenterApi . "/xpressvpnwg.php/getSabyXpressvpnWgConfig/" . $this->saby . "/" . $EMULATOR_ALPHA . "/" . $vpn_region . "/" . $groupId);
-        $vpnConfig = file_get_contents($this->controlCenterApi . "/xpressvpnwg.php/getSabyXpressvpnWgConfig/" . $this->saby . "/" . $EMULATOR_ALPHA . "/" . $vpn_region . "/" . $groupId);
+        myLog("URL request in " . __FUNCTION__ . " : >>  " . $this->controlCenterApi . "/xpressvpnwg.php/getSabyXpressvpnWgConfig/xdev1-wa-01/A/" . $vpn_region . "/" . $groupId);
+        $vpnConfig = file_get_contents($this->controlCenterApi . "/xpressvpnwg.php/getSabyXpressvpnWgConfig/xdev1-wa-01/A/" . $EMULATOR_ALPHA . "/" . $vpn_region . "/" . $groupId);
         if (substr_count($vpnConfig, "ERROR") == 0) {
             $configPath = "/home/" . get_current_user() . "/" . $this->sabyFullName . ".conf";
             file_put_contents($configPath, $vpnConfig, LOCK_EX);
