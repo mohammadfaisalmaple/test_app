@@ -2498,9 +2498,7 @@ class Automate
         sleep(2);
         exec(ADB . " -s emulator-" . $this->emulatorPort . " shell  input text '$url'");
         sleep(2);
-        exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input keyevent KEYCODE_ENTER
-");
-
+        exec(ADB . " -s emulator-" . $this->emulatorPort . " shell input keyevent KEYCODE_ENTER");
     }
 
 }
